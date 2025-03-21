@@ -1,2 +1,2 @@
 # sachin-frayne.infra
-infra for sachin-frayne.com
+infra for sachinfrayne.com
